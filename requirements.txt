@@ -1,0 +1,12 @@
+streamlit==1.46.1
+pandas==2.3.1
+seaborn
+openpyxl
+xlsxwriter
+blinker
+python-dotenv
+streamlit-keycloak
+Authlib
+oauthlib
+scikit-learn==1.6.1
+joblib
